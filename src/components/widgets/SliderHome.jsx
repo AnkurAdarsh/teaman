@@ -2,10 +2,10 @@
 
 // Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
-
+import { Link } from "react-router-dom";
 // Import Swiper styles
 import "swiper/css";
-import "swiper/css/pagination";
+// import "swiper/css/pagination";
 import "swiper/css/navigation";
 
 import "../css/swiper-index.css";
@@ -75,6 +75,13 @@ export default function SliderHome() {
                 type={veg} 
                 cost={"Rs. 125"}/>
         </SwiperSlide>
+        <div className='pb-14 text-center'>
+          <Link to={"./Menu"} className="">
+              <button className="px-5 py-2 text-white rounded-xl bg-red-500 hover:bg-red-600 active:bg-red-700 focus:outline-none focus:ring focus:ring-red-300 ">
+                  Explore our Menu &nbsp; <i className="fa fa-arrow-right cursor-pointer text-md"></i>
+              </button>
+          </Link>
+        </div>
       </Swiper>
     </>
   );
