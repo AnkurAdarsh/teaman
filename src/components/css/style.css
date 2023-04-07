@@ -1,0 +1,21 @@
+.myVideo{
+    max-height: 35em;
+}
+.myPicture{
+    max-height: 22em;
+}
+.font-Berk{
+    font-family: 'Berkshire Swash',handwriting;
+}
+.font-raleway{
+    font-family: Raleway;
+}
+.font-new{
+    font-family: 'Lato', 'Roboto', 'Open Sans', sans-serif;
+}
+.img-shadow{
+    box-shadow: rgba(0, 0, 0, 0.15) 50px -25px 2px;
+}
+.bg{
+    background-image: url('../img/bg-menu1.jpg');
+}
