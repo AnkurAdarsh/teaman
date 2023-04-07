@@ -10,11 +10,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/ankuradarsh/teaman/blob/master/screensort0.png?raw=true" alt="project-screenshot" width="225" height="400/">
+<img src="https://github.com/ankuradarsh/teaman/blob/master/screensort0.png?raw=true" alt="project-screenshot" width="225" height="100/">
 
-<img src="https://github.com/ankuradarsh/teaman/blob/master/screensort1.png?raw=true" alt="project-screenshot" width="225" height="400/">
+<img src="https://github.com/ankuradarsh/teaman/blob/master/screensort1.png?raw=true" alt="project-screenshot" width="225" height="100/">
 
-<img src="https://github.com/ankuradarsh/teaman/blob/master/screenshot2.png?raw=true" alt="project-screenshot" width="225" height="400/">
+<img src="https://github.com/ankuradarsh/teaman/blob/master/screenshot2.png?raw=true" alt="project-screenshot" width="225" height="100/">
 
   
   
