@@ -31,7 +31,8 @@ const Contact = () => {
                 <div className='p-5 pt-20 md:flex'>
                     <div className='py-5 lg:p-1 lg:pl-44 w-full'>
                         {/* <div className=''> */}
-                            <iframe className='h-[450px] lg:h-[550px] w-full shadow-2xl' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d230.23971993434267!2d88.43990806285713!3d22.585254313788482!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02758ef59e4ae9%3A0x425108f20af52365!2sMr.%20Tea%20Man!5e0!3m2!1sen!2sin!4v1681072749610!5m2!1sen!2sin" title='Mr. Tea Man' allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            {/* <iframe className='h-[450px] lg:h-[550px] w-full shadow-2xl' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d230.23971993434267!2d88.43990806285713!3d22.585254313788482!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02758ef59e4ae9%3A0x425108f20af52365!2sMr.%20Tea%20Man!5e0!3m2!1sen!2sin!4v1681072749610!5m2!1sen!2sin" title='Mr. Tea Man' allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> */}
+                            <iframe className='h-[450px] lg:h-[550px] w-full shadow-2xl' title='Mr. Tea Man' src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1537.7186009561756!2d88.44003295940537!3d22.585299489398572!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02758ef59e4ae9%3A0x425108f20af52365!2sMr.%20Tea%20Man!5e0!3m2!1sen!2sin!4v1681160504714!5m2!1sen!2sin"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         {/* </div> */}
                     </div>
                     {/* <div className='relative md:py-10 md:w-3/6'> */}

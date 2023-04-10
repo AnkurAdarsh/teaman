@@ -1,22 +1,10 @@
 import React from 'react';
-// import { Link } from 'react-router-dom';
 import './css/style.css';
 import { Navigation } from './Navigation';
-// import girlteamaking from './img/girl-tea-making.mp4';
 import steakmaking from './img/steak-making1.mp4';
 import { ElementVideo } from './widgets/ElementVideo';
-// import ShopImageHome from './img/shop-image-home.jpg';
 import ShopImageHome from './img/bb.jpg';
-// import { IngredientList } from './widgets/IngredientList';
 import toppics from './img/parcelli.png';
-// import bmenu1 from './img/bg-menu1.jpg';
-// import image1 from './img/herbs1.png';
-// import image2 from './img/herbs2.png';
-// import veg from './img/veg.png';
-// import nonveg from './img/non-veg.png';
-// import masaladosa from "./img/masala-dosa.jpg";
-// import friendschai from "./img/chai-friends.jpg";
-// import masalachai from "./img/masala-chai.jpg";
 import SliderHome from './widgets/SliderHome';
 
 
