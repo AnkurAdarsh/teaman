@@ -73,53 +73,8 @@ const Home = () => {
                     </div>
                 </div>
                 <div className=''>
-                    <div className='z-20 absolute'>
-                        {/* <IngredientList 
-                            name={"Masala dosa"} 
-                            image={masaladosa}
-                            description={"Arguably South India’s most renowned culinary export, masala dosas are famous the world over."} 
-                            type={veg} 
-                            cost={"Rs. 100"}/>
-                        <IngredientList 
-                            name={"Chaat"} 
-                            image={masaladosa}
-                            description={"Synonymous with Delhi street food vendors, chaat is one of India’s most delicious savoury snacks."} 
-                            type={nonveg} 
-                            cost={"Rs. 200"}/>
-                        <IngredientList 
-                            name={"Masala chai"} 
-                            image={masalachai}
-                            description={"India’s most famous export, masala chai can be found being sold by everywhere from high end restaurants to chaiwallas at train stations."} 
-                            type={veg} 
-                            cost={"Rs. 75"}/>
-                        <IngredientList 
-                            name={"Masala dosa"} 
-                            image={masaladosa}
-                            description={"Arguably South India’s most renowned culinary export, masala dosas are famous the world over."} 
-                            type={nonveg} 
-                            cost={"Rs. 125"}/>
-                        <div className='py-10 text-center'>
-                            <Link to={"./Menu"} className="">
-                                <button className="px-5 py-2 text-white rounded-xl bg-red-500 hover:bg-red-600 active:bg-red-700 focus:outline-none focus:ring focus:ring-red-300 ">
-                                    Explore our Menu &nbsp; <i className="fa fa-arrow-right cursor-pointer text-md"></i>
-                                </button>
-                            </Link>
-                        </div> */}
-                    </div>
-                    {/* <div className='pt-28 sm:pt-28 md:pt-28 lg:pt-32 overflow-hidden'>
-                        <div className='absolute max-w-full left-0 z-[-1]'>
-                            <img src={bmenu1} alt="image3" className='brightness-50 opacity-90'/>
-                        </div>
-                    </div> */}
                     <div className='pt-28 sm:pt-28 md:pt-28 lg:pt-28 overflow-hidden'></div>
                     <SliderHome/>
-                {/* <div className='py-10 text-center'>
-                    <Link to={"./Menu"} className="">
-                        <button className="px-5 py-2 text-white rounded-xl bg-red-500 hover:bg-red-600 active:bg-red-700 focus:outline-none focus:ring focus:ring-red-300 ">
-                            Explore our Menu &nbsp; <i className="fa fa-arrow-right cursor-pointer text-md"></i>
-                        </button>
-                    </Link>
-                </div> */}
                 </div>
             </div>
             
